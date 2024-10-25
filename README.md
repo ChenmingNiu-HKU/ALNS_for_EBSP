@@ -4,7 +4,8 @@ The project develops an adaptive large neighborhood search algorithm to solve th
 minimize the total cost of e-bus purchase, charging, labor and battery degradation.
 
 To run the program:
-- Download the folder 
+- Download the folder
+- Create a folder named as 'timetable'
 - Put your own timetable (csv file) in the timetable folder
 - Run main.py
 - Input your own charging station capacity and the name of your timetable file
